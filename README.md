@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Tanweer!</b>
+  <h1 align="center"><b>Hi there, I'm Tanweer!</b>
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "80px" height = "50px"/>
   </h1>
 </p>
