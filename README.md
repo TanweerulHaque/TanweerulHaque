@@ -1,6 +1,7 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Tanweer! 👋</b></h1>
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Kaggle" width = "80px" height = "25px"/></a>
+  <h1 align="center"><b>Hello there, I'm Tanweer! 👋</b>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Kaggle" width = "80px" height = "25px"/>
+  </h1>
 </p>
 
 <p>
