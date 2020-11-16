@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - - - :office: I’m currently studying in Birla Institute of Technology, Mesra
 - - - 👯 I’m looking to collaborate with other ML/DL Enthusiasts
