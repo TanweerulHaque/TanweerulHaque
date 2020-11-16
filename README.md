@@ -12,14 +12,14 @@
 
 <p align="center">
 <br>
-<a href="https://www.kaggle.com/tanweerulhaque"><img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width = "100px" height = "10px"/></a>&nbsp;
+<a href="https://www.kaggle.com/tanweerulhaque"><img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width = "100px" height = "20px"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/tanweerulhaque/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:tan.haque@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
 
-<img align="right" height="220px" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" height="210px" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - - - :office: I’m currently studying in Birla Institute of Technology, Mesra
 - - - 👯 I’m looking to collaborate with other ML/DL Enthusiasts
