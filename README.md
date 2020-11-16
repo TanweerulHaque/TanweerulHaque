@@ -19,12 +19,12 @@
 
 <img align="right" height="175px" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- - - :office: I’m currently studying in Birla Institute of Technology, Mesra
-- - - 👯 I’m looking to collaborate with other ML/DL Enthusiasts
-- - - 🥅 2020 Goals: Contribute to Open Source projects
-- - - 💬 Ask me about anything, I am happy to help :smile:
-- - - 📬 How to reach me: Hit me up on any of the social icons
-- - - ⚡ I love playing Football
+- :office: I’m currently studying in Birla Institute of Technology, Mesra
+- 👯 I’m looking to collaborate with other ML/DL Enthusiasts
+- 🥅 2020 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: Hit me up on any of the social icons
+- ⚡ I love playing Football
 
 <br>
 
