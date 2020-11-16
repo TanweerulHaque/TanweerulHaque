@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/TanweerulHaque" />
-</p>
-
-<p align="center">
 <br>
 <a href="https://www.kaggle.com/tanweerulhaque"><img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width = "80px" height = "25px"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/tanweerulhaque/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
