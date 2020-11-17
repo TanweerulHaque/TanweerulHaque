@@ -1,9 +1,9 @@
-<p>
+<p align="center">
   <h1 align="center"><b>Hi there, I'm Tanweer!</b>
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "80px" height = "50px"/>
   </h1>
 </p>
-<p>
+<p align="center">
   <h4 align="center"><b>I share a very keen interest in the areas of Data Science, Machine Learning and Deep Learning along with acing academics. I have a very strong background in managerial and interpersonal skills. I have participated, hosted and mentored various technical and cultural events, workshops, hackathons, weekenders and fests with utmost hardwork, sincerity and dedication</b></h4>
 </p>
 <p align="center">
