@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center"><b>Hi there, I'm Tanweer!</b>
-  <img style="margin-left: 4.5em;" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "80px" height = "50px"/>
+  <h1 align="center"><b><pre>   Hi there, I'm Tanweer!</pre></b>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "80px" height = "50px"/>
   </h1>
 </p>
 <p align="center">
