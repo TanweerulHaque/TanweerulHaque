@@ -42,4 +42,9 @@
 <br>
 <br>
 
-![Tanweer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanweerulHaque&count_private=true&theme=highcontrast) 
+![Tanweer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanweerulHaque&count_private=true&theme=highcontrast)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanweerulHaque&layout=compact&theme=tokyonight"> <br>
+## ❤ Views
+<a href="https://github.com/TanweerulHaque/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TanweerulHaque">
+</a>
