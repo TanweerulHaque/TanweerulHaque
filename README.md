@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Hi+There%2C+This+is+Tanweer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Hi+There%2C+This+is+Tanweer!)](https://git.io/typing-svg)
 <br>
 <h3 align="center">Machine Learning | Deep Learning | Computer Vision | Time Series Analysis | Natural Language Processing | Data Science </h3>
 <p align="center">
