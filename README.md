@@ -1,8 +1,5 @@
-<p align="center">
-  <h1 align="center"><b></b>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+This+is+Tanweer!)](https://git.io/typing-svg)
-  </h1>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Hi+There%2C+This+is+Tanweer!)](https://git.io/typing-svg)
+<br>
 <h3 align="center">Machine Learning | Deep Learning | Computer Vision | Time Series Analysis | Natural Language Processing | Data Science </h3>
 <p align="center">
   <h4 align="center"><b>I am an open source developer. I share a very keen interest in the areas of Data Science, Machine Learning, Deep Learning, Computer Vision, Time Series Analysis and Natural Languauge Processing along with acing academics. I have a very strong background in managerial and interpersonal skills. I have participated, hosted and mentored various technical and cultural events, workshops, hackathons, weekenders and fests with utmost hardwork, sincerity and dedication.</b></h4>
