@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center"><b>Hi there, I'm Tanweer!</b>
-  <img style = "margin-left:15px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "80px" height = "50px"/>
+  <h1 align="center"><b></b>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+,+I'm+Tanweer!)](https://git.io/typing-svg)
   </h1>
 </p>
 <h3 align="center">Machine Learning | Deep Learning | Computer Vision | Time Series Analysis | Natural Language Processing | Data Science </h3>
