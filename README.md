@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><b></b>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+,+I'm+Tanweer!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+This+is+Tanweer!)](https://git.io/typing-svg)
   </h1>
 </p>
 <h3 align="center">Machine Learning | Deep Learning | Computer Vision | Time Series Analysis | Natural Language Processing | Data Science </h3>
